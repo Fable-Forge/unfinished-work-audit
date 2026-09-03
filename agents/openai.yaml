@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unfinished Work Audit"
+  short_description: "Audit local Codex and Claude sessions against repositories to find genuinely unfinished work."
+  default_prompt: "Use $unfinished-work-audit for this task."
