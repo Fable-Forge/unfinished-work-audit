@@ -6,12 +6,17 @@
 
 **Audit local Codex and Claude sessions against repositories to find genuinely unfinished work.**
 
-> 扫描本地 Codex 与 Claude 会话，并对照真实仓库确认哪些工作仍未完成。
+<p>扫描本地 Codex 与 Claude 会话，并对照真实仓库确认哪些工作仍未完成。</p>
 
 <p>
   <a href="https://github.com/Fable-Forge/unfinished-work-audit/blob/main/LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-0969da"></a>
   <img alt="Maturity: experimental" src="https://img.shields.io/badge/maturity-experimental-8250df">
   <img alt="Agents: Codex and Claude Code" src="https://img.shields.io/badge/agents-Codex_%C2%B7_Claude_Code-1f883d">
+  <a href="https://github.com/Fable-Forge/unfinished-work-audit/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Fable-Forge/unfinished-work-audit?style=social"></a>
+</p>
+
+<p>
+  <strong>If this skill helps you ship better work, a ⭐ Star is free and helps others find it.</strong>
 </p>
 
 </div>
